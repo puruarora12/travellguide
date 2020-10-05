@@ -13,4 +13,5 @@ and much more
 
 
 # Please Specify your city name or location Properly
+
 This bot is still in learning phase.
